@@ -1,0 +1,31 @@
+body{
+    background-image:url("https://ichef.bbci.co.uk/news/1024/branded_mundo/F1F2/production/_118283916_b19c5a1f-162b-410b-8169-f58f0d153752.jpg" );
+    background-size: cover;
+}
+
+.title{
+    text-align: center;
+    color:purple;
+    background-color: rgb(255, 174, 241);
+    border: 8px dotted rgb(212, 93, 93);
+    margin: 50px;
+}
+
+.subtitle{
+    background-color: salmon;
+    color:seashell;
+    text-align: center;
+    padding: 20px;
+    margin:30px;
+}
+
+#caja{
+    background-color: lightblue;
+    width: 400px;
+    height: 200px;
+    margin: 0 auto;
+}
+
+#caja p {
+    color: blue;
+}
