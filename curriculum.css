@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+}
+
+h2{
+    background-color: rgb(127, 129, 129);
+    color: red;
+}
+
+#h2-morado{
+    color:purple;
+    background-color: rgb(146, 141, 141)    ;
+}
+
+#caja-personales{
+    background-color: rgb(184, 179, 179);
+}
+
+#caja-personales label{
+    color: blue;
+    text-decoration: underline;
+}
+#caja-personales2{
+    background-color: rgb(184, 179, 179);
+}
+
+#caja-personales2 label{
+    color: rgb(32, 122, 60);
+    text-decoration: underline;
+}
