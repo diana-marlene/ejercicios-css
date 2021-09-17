@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+.title{
+    font-family: 'Patrick Hand', cursive;
+    text-align: center;
+}
+.font{
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+    color:deeppink;
+}
+.fuente{
+    font-family: 'Pinyon Script', cursive;
+    text-align: center;
+    color:darkseagreen;
+}
+
+.f1{
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    color:darkmagenta;
+}
+
+.f2{
+    font-family: 'Quantico', sans-serif;
+    text-align: center;
+    color:darkblue;
+}
+
+div{
+    border: dotted;
+}
