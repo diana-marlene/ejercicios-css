@@ -1,0 +1,29 @@
+body{
+    /* background-color: rgb(223, 84, 33); */
+    background: linear-gradient(red,rgb(255, 123, 0));
+
+}
+h1{
+    text-align: center;
+}
+
+.flex-container{
+    display: flex;
+    /* flex-direction: row;  Por defecto*/ 
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.flex-container div{
+    background-color: rgb(86, 140, 240);
+    margin:15px; /*Separa elementos*/
+    padding: 10%;  /*Da más espacio al elemento*/
+    text-align: center;
+    color: white;
+    font-size: 60px;
+    font-family: 'Anton', sans-serif;
+    
+}
+
