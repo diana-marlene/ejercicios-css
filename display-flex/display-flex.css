@@ -1,0 +1,35 @@
+.container{
+    width: 80%;
+    /* height: 500px; */
+    margin: 0 auto;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-around;
+    /*Si ya no hay espacio se van hacia abajo*/
+    flex-wrap: wrap; 
+    /*acomodar verticalmente los elementos del container*/
+    align-items: center;
+}
+
+.caja{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    /*Para acomodar */
+    justify-content: center;
+    align-items:center;
+}
+.caja1{
+    border: 2px solid red;
+}
+.caja2{
+    border: 2px solid yellow;
+    align-self:flex-end;
+}
+
+.caja3{
+    border: 2px solid blue;
+}
+.caja4{
+    border: 2px solid green;
+}
